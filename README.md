@@ -1,4 +1,4 @@
-![Cover](data/images/Portadas%20GitHub.png)
+![Cover](data/images/cover.png) 
 # PaintMarket Insights: Data-Driven Strategies to Boost Market Share
 
 ## De Pinceladas a Resultados
